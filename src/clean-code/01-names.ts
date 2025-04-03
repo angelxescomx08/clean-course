@@ -28,7 +28,7 @@
   // Todo: Tarea
       
   // día de hoy - today
-  const todayDate = new Date();
+  const ctodayDate = new Date();
   
   // días transcurridos - elapsed time in days
   const elapsedTimeInDays: number = 23;
