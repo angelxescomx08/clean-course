@@ -3,8 +3,7 @@
   // includes? arrays?
   function isRedFruit(fruit: string): boolean {
     const redFruits = ["manzana", "fresa", "ciruela"];
-    if (redFruits.includes(fruit)) return true;
-    return false;
+    return redFruits.includes(fruit);
   }
 
   // Simplificar esta función
